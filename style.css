@@ -1,0 +1,14 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: aliceblue;
+}
+
+.card {
+    background-color: rgb(184, 230, 230);
+    padding: 1.5rem 2rem;
+    text-align: center;
+    max-width: 300px;
+    margin: 3rem;
+    border-radius: 0.5rem;
+    border: 1px solid black;
+}
