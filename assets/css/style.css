@@ -12,3 +12,21 @@ body{
     border-radius: 0.5rem;
     border: 1px solid black;
 }
+.card-1{
+    border-color: rgb(238, 121, 121);
+}
+.icon{
+    width: 40px;
+    height: 40px;
+    
+    border-radius: 50%;
+}
+.card-1 .icon{
+    background-color: rgb(238, 121, 121);
+}
+.card-2{
+    border-color: rgb(178, 178, 225);
+}
+.card-2 .icon{
+    background-color:rgb(178, 178, 225) ;
+}
